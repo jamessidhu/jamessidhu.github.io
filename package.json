@@ -1,0 +1,17 @@
+{
+  "name": "jamessidhu",
+  "version": "0.0.1",
+  "description": "",
+  "main": "admin.js",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+
+  },
+  "dependencies": {
+
+  }
+}

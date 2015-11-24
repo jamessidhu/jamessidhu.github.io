@@ -1,0 +1,22 @@
+{
+  
+  "port": 8080,
+  "host": "localhost:8080",
+
+  "facebook": {
+    "id": "826251827473227",
+    "secret": "434e2d3267947b9cb6edafe20e86d252"
+  },
+  "google": {
+    "id": "582912394857-h65cr5777e2pv5je0o0ku21vatimve4r.apps.googleusercontent.com",
+    "secret": "fGfy4rvzaRoAQuXaiJ1CLaQb"
+  },
+  "github": {
+    "id": "a006f27fa87e68db3c7a",
+    "secret": "eef414952f1745c21e68103c5198b205a6f505db"
+  },
+  "twitter": {
+    "key": "eIsPKDibZtdTEWnveMsVCS0C9",
+    "secret": "R8w2KEwkW0s8Kc2ckFTG1ld7EYxSV2SbReUXPAGZ2IK2hChNwd"
+  }
+}
